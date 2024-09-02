@@ -1,3 +1,8 @@
+//lle00Lab3
+//Luyen Le
+//8/31/22
+//Lab 3
+
 import java.util.Scanner;
 public class lle00Lab3 {
 
